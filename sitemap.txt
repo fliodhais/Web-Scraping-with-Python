@@ -1,0 +1,16 @@
+http://localhost:4000/index.html
+http://localhost:4000/product-pages/singpass.html
+http://localhost:4000/company/contact.html
+http://localhost:4000/product-pages/sino-connect.html
+http://localhost:4000
+http://localhost:4000/product-pages/customers-reviews.html
+http://localhost:4000/company/privacy-policy.html
+http://localhost:4000/product-pages/iam-smart.html
+http://localhost:4000/user-pages/index.html
+http://localhost:4000/product-pages/request-demo.html
+http://localhost:4000/os/terms-conditions.html
+http://localhost:4000/product-pages/uaepass.html
+http://localhost:4000/company/about-us.html
+http://localhost:4000/product-pages/faqs.html
+http://localhost:4000/product-pages/pricing.html
+http://localhost:4000/user-pages/sign-up.html
